@@ -1,4 +1,4 @@
-# wav2vec2-large-xlsr-common_voice_13_0-id
+# Wav2Vec2 Large XLSR Common Voice Indonesia
 
 This repository contains code for performing audio transcription using the Wav2Vec2 model trained on the Common Voice dataset 13 for Indonesian.
 
