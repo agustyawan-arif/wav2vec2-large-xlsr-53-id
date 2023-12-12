@@ -1,0 +1,5 @@
+datasets
+transformers
+huggingface-hub
+soundfile
+halo
