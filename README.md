@@ -29,7 +29,7 @@ This repository contains code for performing audio transcription using the Wav2V
 To transcribe an audio file using the pre-trained model, use the following command:
 
 ```bash
-python src/wrapper.py --model_name arifagustyawan/wav2vec2-large-xlsr-common_voice_13_0-id --filename path/to/your/audio/file.wav
+python wrapper.py --model_name arifagustyawan/wav2vec2-large-xlsr-common_voice_13_0-id --filename path/to/your/audio/file.wav
 ```
 
 Replace `path/to/your/audio/file.wav` with the path to the audio file you want to transcribe. Sample are available in `assets` directory
