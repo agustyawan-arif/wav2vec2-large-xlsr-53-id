@@ -2,7 +2,13 @@
 
 This repository contains code for performing audio transcription using the Wav2Vec2 model trained on the Common Voice dataset 13 for Indonesian.
 
+https://github.com/agustyawan-arif/wav2vec2-large-xlsr-common_voice_13_0-id/assets/82918938/bddc6840-e824-4066-957d-4b04e5696940
+
+(_🔈 sound on_ gradio speech to text simulation)
+
+[![Space](https://img.shields.io/badge/Hugging%20Face-Space-blue)](https://huggingface.co/spaces/arifagustyawan/wav2vec2-large-xlsr-common_voice_13_0-id)
 [![Model Card](https://img.shields.io/badge/Hugging%20Face-Model%20Card-blueviolet)](https://huggingface.co/arifagustyawan/wav2vec2-large-xlsr-common_voice_13_0-id)
+
 
 ## Setup
 
