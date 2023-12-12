@@ -138,6 +138,6 @@ if __name__ == "__main__":
     with Halo(text="Performing audio transcription...", spinner="dots") as transcribe_spinner:
         transcription, confidence = asr.file_to_text(args.filename)
         
-    print("\033[94mTranscription:\033[0m", transcription)  # Blue color for regular output
+    print("\033[94mTranscription:\033[0m", transcription)
     print("\033[94mConfidence:\033[0m", confidence)
     
